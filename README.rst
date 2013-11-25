@@ -46,3 +46,9 @@ Heroku copy
     heroku run python manage.py syncdb
     heroku run python manage.py migrate
     heroku open
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/hellysmile/django-backbone-todo/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
